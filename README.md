@@ -8,9 +8,10 @@ A partir dessa métrica é possível fazer a predição de churn, ou seja, o map
 Desta forma, a predição de Churn é um fator determinante para o sucesso de uma instituição ao ponto que permeti a analise dos motivos de desligamento, possibilitando que possam ser tomadas inicitivas rápidas para evitar a suspenção do produto ou serviço por parte do cliente
 
 # Modelo
-O projeto refere-se à completos do projeto já existente "Bank Customer Churn Prediction". No modelo estão sendo feitas alterações no tópico Model do AGEMC (figura 1) que corresponde a parte de analysis do flow utulizado para a relização do trabalho (figura 2). Além disso, o flow ecolhido já possuía uma caixa "procure alternativas"
+O projeto refere-se à complementos do projeto já existente "Bank Customer Churn Prediction". No modelo estão sendo feitas alterações no tópico Model do AGEMC (figura 1) que corresponde a parte de analysis do flow utulizado para a relização do trabalho (figura 2). Além disso, o flow ecolhido já possuí uma caixa "procure alternativas"
 
 ![](https://www.datascience-pm.com/wp-content/uploads/2020/10/harvard.png)
+
 *Figura 1: AGEMC*
 
 ![](https://www.datascience-pm.com/wp-content/uploads/2020/10/gao.png)
