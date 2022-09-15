@@ -15,4 +15,4 @@ O projeto refere-se à complementos do projeto já existente "Bank Customer Chur
 *Figura 1: AGEMC*
 
 ![](https://www.datascience-pm.com/wp-content/uploads/2020/10/gao.png)
-*Figura 2: flow*
+*Figura 2: Guo´s flow*
